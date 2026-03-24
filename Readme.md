@@ -3,3 +3,5 @@ This readme will populate.
 
 Change this.
 
+Adding from the terminal. 
+
